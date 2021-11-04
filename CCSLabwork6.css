@@ -1,0 +1,20 @@
+/* Js CCS sheet for Js-index.html and page2.html */
+
+body{ 
+
+	background-color: #eadbf4;
+} 
+
+h1{ 
+	text-decoration: underline;
+	text-shadow: 2px 2px 8px #FF0000;
+	
+} 
+/* paragraph center page =, thankyou page */ 
+.GGA{ 
+	text-decoration: underline; 
+	text-align: center;
+	font-size: 50px;
+	color: blue; 
+
+} 
